@@ -66,7 +66,7 @@
 			<artifactId>spring-core</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
-		<dependency>
+		<dependency
     		<groupId>org.springframework</groupId>
     		<artifactId>spring-web</artifactId>
     		<version>${spring.version}</version>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.91.213.97:8081/repository/cashapp_release/</url>
+	      <url>http://3.83.47.144:8081/repository/cash-p</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-		    <url>http://3.91.213.97:8081/repository/cashapp_snapshot/</url>
+		    <url>http://3.83.47.144:8081/repository/cash-p/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
